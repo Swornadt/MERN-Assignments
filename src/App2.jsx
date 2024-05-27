@@ -1,3 +1,4 @@
+//DISABLED
 import React from 'react';
 import {useState} from 'react'
 //name, gender form, submit button, display data in para
